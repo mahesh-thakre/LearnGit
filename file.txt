@@ -26,7 +26,7 @@ cherry command lets you check whether your branch’s changes are present in som
 
 6. Start a new Branch with No History
 
-Sometimes you need to start a new branch and do no want to carry the long history along, for example, you want to place the code in public domain(open source) but do no want to share the history.
+Sometimes you need to start a new and do no want to carry the long history along, for example, you want to place the code in public domain(open source) but do no want to share the history.
 
 7. Checkout File from Other Branch without Switching Branches
 
