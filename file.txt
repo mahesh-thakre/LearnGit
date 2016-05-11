@@ -22,7 +22,7 @@ If you need to apply a patch from a on some other unrelated local repository to 
 
 5. Check if your Branch changes are part of Other branch
 
-cherry command lets you check whether your branch’s changes are present in some other branch or not. It will the changes on current branch to given branch and indicate with a + or – sign to indicate if that commit is merged or not. + indicated not present while – indicates present in the given branch. Here is how to do that:
+cherry command lets you check whether your branch’s changes are present in some other branch or not. It will the changes on current branch to given branch and with a + or – sign to indicate if that commit is merged or not. + indicated not present while – indicates present in the given branch. Here is how to do that:
 
 6. Start a new Branch with No History
 
