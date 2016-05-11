@@ -30,7 +30,7 @@ Sometimes you need to start a new branch and do no want to carry the long histor
 
 7. Checkout File from Other Branch without Switching Branches
 
-Here is how to fetch just that file you need from other branch without even have to switch branches.
+Here is how to just that file you need from other branch without even have to switch branches.
 
 8. Ignore Changes in a Tracked File
 
