@@ -18,7 +18,7 @@ If you wish to clone only specific branch from a remote repository without havin
 
 4. Apply patch from Unrelated local repository
 
-If you need to apply a patch from a commit on some other unrelated local repository to your current repository, here is a shortcut way to do that
+If you need to apply a patch from a on some other unrelated local repository to your current repository, here is a shortcut way to do that
 
 5. Check if your Branch changes are part of Other branch
 
